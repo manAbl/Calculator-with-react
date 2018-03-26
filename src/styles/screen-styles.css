@@ -1,0 +1,14 @@
+input[type="text"] {
+  border:0;
+  outline:0;
+  height: 40px;
+  grid-row: 1/2;
+  font-size: 22px;
+  grid-column: 1/4;
+  text-align: right;
+  color: var(--color);
+  padding-right: 30px;
+  border-bottom: 2px solid slateblue;
+  font-stretch: condensed;
+  background: var(--primary);
+}

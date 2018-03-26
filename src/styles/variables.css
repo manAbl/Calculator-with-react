@@ -1,0 +1,10 @@
+:root {
+  --color: rgba(255, 255, 255, .6);
+  --font-family: 'Lato', sans-serif;
+  --secundary: slateblue;
+  --primary: black;
+  --font-size: 16px;
+  --padding: 10rem;
+  --height: 10rem;
+  --width: 18rem;
+}

@@ -1,0 +1,1 @@
+This a calculator made with React as part of my journey to become a Front End Developer and get my first job.
